@@ -154,8 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+ 
 Mustapha Abdulrasheed Hamza - [Github](https://github.com/Mustapha-Hamza) /   
- Akin Akinloye - 
+Kelvin Kiiru
 
 Second part of Airbnb: Joann Vuong
 ## License
